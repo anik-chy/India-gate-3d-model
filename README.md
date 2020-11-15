@@ -20,5 +20,5 @@ This is a 3D model of India Gate. We implemented this project as a term project 
 * d -> Rotate around y axis
 * n -> Toggle day/night mode
 * r -> Reset the view
-* + -> Zoom in
-* - -> Zoom out
+* '+' -> Zoom in
+* '-' -> Zoom out
