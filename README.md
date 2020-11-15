@@ -1,7 +1,7 @@
 # India-gate-3d-model
 This is a 3D model of India Gate. We implemented this project as a term project of our Graphics Lab. You can find more in the report.
 
-#How to run this project
+# How to run this project
 
 * Download the project file
 * Install Code Blocks
