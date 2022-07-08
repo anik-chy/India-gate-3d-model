@@ -24,5 +24,5 @@ This is a 3D model of India Gate. We implemented this project as a term project 
 * '-' -> Zoom out
 
 # For Illustration
+https://youtu.be/LmKZaOtXHs8
 
-[![India Gate 3D Model](https://img.youtube.com/vi/LmKZaOtXHs8/0.jpg)](https://youtu.be/LmKZaOtXHs8)
